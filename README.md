@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @davidk1401
-- 👀 I use data to gain insights, make predictions and answer your important business questions.
-- 🌱 I’m using Python, R, SQL for various data projects
+- 👋 Nice to meet you, I’m @davidk1401
+- 👀 I use data to gain insights, make predictions and answer important questions for business, society and my own curiosity.
+- 🌱 I’m using Python, R, SQL for various data projects, and Tableau to visualize them
 - 📫 Visit my LinkedIn! https://www.linkedin.com/in/david-katilius/
 Or Twitter for Data Visualizations! https://twitter.com/DavidKatilius
 
